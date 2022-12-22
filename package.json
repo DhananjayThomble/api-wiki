@@ -1,0 +1,30 @@
+{
+  "name": "api-wiki",
+  "version": "1.0.0",
+  "description": "NODE REST api demo\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[DodeJs RE\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C REST API Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhananjayThomble/api-wiki.git"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs"
+  ],
+  "author": "Dhananjay Thomble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhananjayThomble/api-wiki/issues"
+  },
+  "homepage": "https://github.com/DhananjayThomble/api-wiki#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  }
+}
